@@ -1,3 +1,7 @@
+<p align="center"><img src="assets/rig-banner.svg" width="1280" alt="XNODE — RED └•TEAM•┐ lab™"></p>
+
+[Штаб лаборатории](https://github.com/Xnode-sh/RED-TEAM-LAB) · [Профиль XNODE](https://github.com/Xnode-sh)
+
 # vibe-chat
 
 TUI-чат с двумя AI-агентами одновременно: **Claude Code** и **opencode**.  
@@ -7,8 +11,8 @@ TUI-чат с двумя AI-агентами одновременно: **Claude 
 
 ```bash
 python -m venv .venv
-.venv\Scripts\pip install -r requirements.txt   # Windows
-# или: .venv/bin/pip install -r requirements.txt
+.venv\Scripts\pip install textual   # Windows
+# или: .venv/bin/pip install textual
 ```
 
 Также нужны глобально:
@@ -55,3 +59,11 @@ python chat_tui.py
 - Node.js (для server.mjs)
 - Claude Code CLI (`claude.exe` глобально)
 - opencode CLI (`opencode.exe` глобально)
+
+<img src="assets/rig-divider.svg" width="1280" alt="">
+
+## Инженерный процесс лаборатории
+
+`PLAN → ISSUE → BRANCH → WORK → TEST → PR → REVIEW → MERGE`
+
+Команда: **RIG / KAI / NOVA**. NODE — фирменный маскот. [Правила работы](https://github.com/Xnode-sh/RED-TEAM-LAB/blob/main/WORKFLOW.md).
