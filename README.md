@@ -4,6 +4,8 @@
 
 # vibe-chat
 
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/TUI-5E5CE6?style=flat-square" alt="TUI"></p>
+
 TUI-чат с двумя AI-агентами одновременно: **Claude Code** и **opencode**.  
 Один интерфейс, один промпт — оба отвечают по очереди или по отдельности.
 
@@ -66,4 +68,4 @@ python chat_tui.py
 
 `PLAN → ISSUE → BRANCH → WORK → TEST → PR → REVIEW → MERGE`
 
-Команда: **RIG / KAI / NOVA**. NODE — фирменный маскот. [Правила работы](https://github.com/Xnode-sh/RED-TEAM-LAB/blob/main/WORKFLOW.md).
+Команда: **FREYA / LIRA / KRIPTO**. NODE — фирменный маскот. [Правила работы](https://github.com/Xnode-sh/RED-TEAM-LAB/blob/main/WORKFLOW.md).
